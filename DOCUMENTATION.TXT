@@ -1,0 +1,84 @@
+          ************
+       ******************
+     **********************
+    ************************
+   **************************
+   **************************
+   **************************              PersonJ - BY Robert .H AKA Armitager
+   **************************
+    ************************
+     **********************
+      ********************
+       ******************
+          ************
+             ******
+       *****************
+      *******************
+     *********************
+    ***********************
+   *************************
+  ***************************
+ *****************************
+********************************
+
+
+HI, NICE TO SEE YA, THIS IS A SMALL DOCUMENTATION ABOUT HOW TO USE "PersonJ".
+PersonJ IS A FRAMEWORK WAS MADE TO MAKE IT  EASIER TO THE DEV TO MAKE A FORM
+OF PERSONAL DATA ABOUT A PERSON, PersonJ BRINGS LOTS OF VARIABLE IN DIFFERENT 
+TOPICS TO HELP YOU MAKE EASIER MySQL QUERYS, HANDLE BETTER GET/POST, MAKE 
+SIMPLE APPS AND IF YOU ARE NOT HAPPY JUST ADD MORE VARIABLES.
+
+IT DOESNT USE MAVEN OR PACKAGES SO IT IS VERY PLUG-AND-PLAY, JUST ADD THE
+PersonJ.java TO YOUR WORKSTATION WITHOUT ANY PROBLEM, IF YOU WORK WITH 
+package MAKE SURE TO ADD YOUR package TO THE FIRST LINE OF PersonJ.java
+OR JUST COPY-PASTE
+
+***********
+HOW TO USE?
+***********
+
+PersonJ JUST HAVE VARIABLES, DIVIDES IN TOPICS:
+    NAMES:
+        names and ID info
+
+
+    DATES AND RELATIONSHIP STATUS:
+        here goes Dates and if the person had bitches
+
+        
+    SEX:
+        anything that works with sex and that DATA shold be here, also you can see if the person likes to get dicked
+
+
+    BODY:
+        all body infor goes here from size to diseases
+
+
+    FAMILY STATUS:
+        the relatives and that kind of things, also if they are alive or death
+
+    ECONOMY:
+        HERE YOU CAN SET IF THE NIGGA IS BROKE OR RICH
+
+    CRIME STATUS:
+        HERE YOU CAN SET IF YOU WANT TO BE CLOSE OF THIS PERSON
+
+    REGION:
+        THE PLACE THE PERSON IS FORM
+
+    PERSONAL DATA:
+        is my way to say "others things"
+
+************
+HOW TO EDIT?
+************
+
+PeronJ HAS A LOT OF USEFUL THINGS BUT ALSO LACKS THINGS, IF YOU NEED JUST ADD MORE VARIABLES
+BUT YOU MUST MAKE SURE YOU ADD THEM IN THE CORRECT TOPIC ELSE THIS WILL GET MESSY.
+
+
+THANKS FOR READING THIS FAR, I HOPE THIS TEXT WAS USEFUL, HAVE A GOOD DAY.
+
+                                                        --Robert .H
+    
+    
